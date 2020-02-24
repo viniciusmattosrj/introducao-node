@@ -1,7 +1,7 @@
 # Sobre a Projeto
 
 Este projeto é uma introdução ao Node voltado para iniciantes.
- - <a href="https://youtu.be/KtDwdoxQL4A">Introdução a Node</a> - Rodrigo Branas
+ - <a href="https://youtu.be/KtDwdoxQL4A">Introdução a Node</a> -  Rodrigo Branas
  
  
 
