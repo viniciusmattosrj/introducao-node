@@ -1,6 +1,9 @@
-# Nodes Introdução
+# Sobre a Projeto
 
-Introdução Nodes - Rodrigo Branas - https://youtu.be/KtDwdoxQL4A
+Este projeto é uma introdução ao Node voltado para iniciantes.
+ - <a href="https://youtu.be/KtDwdoxQL4A">Introdução a Node</a> - Rodrigo Branas
+ 
+ 
 
 ## Instalação
 
