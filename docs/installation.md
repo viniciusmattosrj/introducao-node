@@ -40,7 +40,6 @@ Instalando as dependências do projeto:
 docker exec -it node bash -c "npm install"
 ```
 
-&nbsp;
 #### Somente em ambiente de dev deve ser concedido a permissão nas pastas:
 
 ```
