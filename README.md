@@ -14,7 +14,7 @@
 
 Este é um projeto pessoal de introdução ao NodeJS voltado a iniciantes no ecossistema JS.
 
-- <a href="https://www.youtube.com/watch?v=KtDwdoxQL4A&list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq">Introdução NodeJS - Rodrigo Branas</a> 
+- <a href="https://www.youtube.com/watch?v=KtDwdoxQL4A&list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq">Introdução NodeJS</a> - Rodrigo Branas 
 
 ### Instalação
 
