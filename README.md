@@ -1,7 +1,7 @@
 ## Requerimentos
 
-- Node &ge; 10.15.3
-- Npm
+- Node &ge; 10.15.*
+- Npm &ge; 6.14.*
 
 ### Tecnologias Utilizadas
 
