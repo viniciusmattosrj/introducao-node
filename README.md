@@ -5,7 +5,7 @@
 
 ### Tecnologias Utilizadas
 
-* Docker 
+* Docker ou NVM
 * Express
 * ORM: Sequelize
 * Code style: ESLint
