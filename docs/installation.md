@@ -35,11 +35,6 @@ Dentro do projeto **introducao-node** execute:
 docker-compose up -d
 ```
 
-Instalando as dependências do projeto:
-```
-docker exec -it node bash -c "npm install"
-```
-
 #### Somente em ambiente de dev deve ser concedido a permissão nas pastas:
 
 ```
