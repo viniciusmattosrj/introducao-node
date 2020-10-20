@@ -2,24 +2,12 @@ version: "3"
 
 services:
     node:
-        image: node
-        build: .
-        container_name: node
-        command: bash -c "npm install && npm start"
-        restart: always
-        ports:
-            - "3000:3000"
-        volumes:
-            - .:/app
-        working_dir: '/app'
+        image: viniciusmattosrj/node:12-slim
+        container_name: node-app
+        restart: on-failure
         networks:
-            default:
-                ipv4_address: 10.11.0.11
-
+            - app-network
+            
 networks:
-    default:
+    app-network:
         driver: bridge
-        ipam:
-            config:
-                - subnet: 10.11.0.1/24
-                     gateway: 10.11.0.1
